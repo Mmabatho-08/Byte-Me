@@ -1,3 +1,8 @@
+## Task description
+In this predict you will be tasked to build and deploy a ML model and to participate in a Kaggle challenge.
+
+![image](https://github.com/Mmabatho-08/Electricity-load-shortfall-predict/assets/126807713/ae27f305-ce0e-4d1c-aa0b-2e0be431249b)
+
 # Flask-based Model API
 #### EXPLORE Data Science Academy Regression Predict
 
